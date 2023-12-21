@@ -11,10 +11,7 @@ const PaginationCards = () => {
 
   const totalPages = useSelector(getTotalPagesSelector);
 
-  console.log(totalPages);
-
   const handleChange = (event, value) => {
-    console.log(value);
     setPage(value);
     dispatch(changePage(value));
   };

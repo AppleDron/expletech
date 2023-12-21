@@ -1,8 +1,8 @@
 {
-  "name": "test-task-expletech",
+  "name": "expletech",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://AppleDron.github.io/test-task-expletech/",
+  "homepage": "https://AppleDron.github.io/expletech/",
   "dependencies": {
     "@emotion/react": "^11.11.1",
     "@emotion/styled": "^11.11.0",
